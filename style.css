@@ -202,8 +202,8 @@ body {
 }
 
 .carousel-item img{
-	height: 540px;
-  min-height:300px ;
+	height: 598px!important;
+  
 	
 }
 .carousel-caption {
