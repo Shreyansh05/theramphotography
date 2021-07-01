@@ -28,7 +28,7 @@ function close(){
     loop: true,
     speed:1000,
     autoplay:{
-      delay:3000
+      delay:2000
     },
     loopAdditionalSlides: 10,
     grabCursor: true,
